@@ -8,21 +8,21 @@
 
 <div style="display: flex;">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/victor-rays/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+    <img src="https://raw.githubusercontent.com/n0rs3/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
          alt="GitHub stats overview">
-    <img src="https://raw.githubusercontent.com/victor-rays/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+    <img src="https://raw.githubusercontent.com/n0rs3/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
          alt="Programming language stats">
  </p>
 </div>
 
 <p align="center">
-    <img src="https://github-readme-stats-zendai.vercel.app/api?username=victor-rays&theme=nightowl&show_icons=true" 
+    <img src="https://github-readme-stats-zendai.vercel.app/api?username=n0rs3&theme=nightowl&show_icons=true" 
          alt="GitHub essentials statistics">
 </p>
 
 <p align="center">
   <img alt="GitHub activity statistics" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-rays"> 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n0rs3"> 
 </p>
  
  <p align="center">
